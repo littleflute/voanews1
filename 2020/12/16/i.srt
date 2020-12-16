@@ -1,0 +1,276 @@
+
+1
+00:00:00,000 --> 00:00:02,520
+VOA NEWS
+
+2
+00:00:02,520 --> 00:00:01,152
+December 16, 2020
+
+3
+00:00:01,152 --> 00:00:04,289
+
+
+4
+00:00:04,289 --> 00:00:03,391
+This is VOA news. Via remote, I'm Jim Bertel.
+
+5
+00:00:03,391 --> NaN:NaN:NaN,undefined
+
+
+8
+00:00:08,845 --> 00:00:16,736
+A day after the Electoral College confirmed Joe Biden is the U.S. president-elect, the White House is still not ready to concede. AP's Sagar Meghani reports.
+
+9
+00:00:16,736 --> 00:00:17,124
+
+
+10
+00:00:17,124 --> 00:00:22,844
+A day after the Electoral College confirmed Biden as the next president, White House spokeswoman Kayleigh McEnany shrugged it off.
+
+11
+00:00:22,844 --> 00:00:25,092
+
+
+12
+00:00:25,092 --> 00:00:29,777
+"Yesterday's vote was one step in the constitutional process," saying President Trump is still involved in legally challenging the election.
+
+13
+00:00:29,777 --> 00:00:32,409
+
+
+14
+00:00:32,409 --> 00:00:43,401
+Hours earlier on the Senate floor, "our country has officially a president-elect," Republican leader Mitch McConnell breaking his election silence and congratulating Biden, who in turn says he called his old colleague to say thanks.
+
+15
+00:00:43,401 --> 00:00:47,481
+
+
+16
+00:00:47,481 --> 00:00:49,705
+Sagar Meghani, Washington.
+
+17
+00:00:49,705 --> 00:00:48,287
+
+
+18
+00:00:48,287 --> 00:00:48,903
+
+
+19
+00:00:48,903 --> 00:00:49,510
+
+
+20
+00:00:49,510 --> 00:01:00,735
+The World Health Organization says it is in discussions with Pfizer and Moderna about possibly including their hi-tech coronavirus vaccines among vaccines for poor countries at affordable prices.
+
+21
+00:01:00,735 --> 00:01:01,471
+
+
+22
+00:01:01,471 --> 00:01:14,136
+The [wh ba...] WHO-backed COVAX facility, created to ensure equitable access to COVID-19 vaccines around the world as they become available, is aiming to provide some two billion doses by the end of next year.
+
+23
+00:01:14,136 --> 00:01:14,985
+
+
+24
+00:01:14,985 --> 00:01:20,984
+Meanwhile, the Moderna vaccine appeared set for regulatory authorization this week in the U.S. Reuters Colette Luke has more.
+
+25
+00:01:20,984 --> 00:01:22,849
+
+
+26
+00:01:22,849 --> 00:01:37,536
+One day after Americans began getting vaccinated against COVID-19, a second vaccine - this one from Moderna - is on track for FDA approval this week after U.S. Food and Drug Administration staff endorsed it as safe and effective in documents released Tuesday.
+
+27
+00:01:37,536 --> 00:01:40,424
+
+
+28
+00:01:40,424 --> 00:01:45,320
+Moderna could get the green light as early as Friday, according to The New York Times, making millions of doses available to Americans within days.
+
+29
+00:01:45,320 --> 00:01:48,857
+
+
+30
+00:01:48,857 --> 00:01:50,808
+Moderna's approval would follow FDA's granting of emergency use of Pfizer's vaccine and would help the United States fulfill its promise to inoculate 20 million people this month.
+
+31
+00:01:50,808 --> 00:02:58,976
+
+
+32
+00:02:58,976 --> 00:02:00,112
+
+
+33
+00:02:00,112 --> 00:02:01,616
+
+
+34
+00:02:01,616 --> 00:02:03,632
+This is VOA news.
+
+35
+00:02:03,632 --> 00:02:04,120
+
+
+36
+00:02:04,120 --> NaN:NaN:NaN,undefined
+
+
+38
+00:02:04,073 --> 00:02:11,001
+The U.N. says over two million children in the Tigray region of Ethiopia have been cut off from humanitarian assistance for over a month.
+
+39
+00:02:11,001 --> 00:02:12,081
+
+
+40
+00:02:12,081 --> 00:02:16,105
+UNICEF Executive Director Henrietta Fore says the U.N. is prepared to provide essential services to [malnutrition] malnourished children in the embattled region but needs access to Tigray that Addis Ababa is currently not allowing.
+
+41
+00:02:16,105 --> 00:02:26,465
+
+
+42
+00:02:26,465 --> 00:02:37,097
+Telecommunications have been cut and access limited to the Tigray region since violence broke out on November 4, making it difficult for humanitarian agencies to evaluate the needs there.
+
+43
+00:02:37,097 --> 00:02:37,833
+
+
+44
+00:02:37,833 --> 00:02:40,185
+Since November, more than 50,000 people have fled violence in Tigray and headed to Sudan.
+
+45
+00:02:40,185 --> 00:02:44,193
+
+
+46
+00:02:44,193 --> NaN:NaN:NaN,undefined
+
+
+48
+00:02:43,708 --> 00:02:53,442
+Journalists covering the first district elections to take place in Indian-controlled Kashmir since the government revoked the region's special status last year say the are being harassed and obstructed from reporting.
+
+49
+00:02:53,442 --> 00:02:56,538
+
+
+50
+00:02:56,538 --> 00:03:17,315
+Media in the region were already facing challenges, including regulations imposed during the COVID-19 lockdown, limited Internet access, restrictive new media laws, arrests and harassment that have ramped up since India removed Article 370 from the constitution in August 2019, which granted autonomy to Kashmir.
+
+51
+00:03:17,315 --> 00:03:18,434
+
+
+52
+00:03:18,434 --> 00:03:19,107
+
+
+53
+00:03:19,107 --> 00:03:17,289
+
+
+54
+00:03:17,289 --> 00:03:29,161
+Despite its declining population, the Associated Press has been told the monarch butterfly will have to wait to receive protection under the Endangered Species Act. AP's Shelley Adler reports.
+
+55
+00:03:29,161 --> 00:03:30,145
+
+
+56
+00:03:30,145 --> 00:03:39,809
+The U.S. Fish and Wildlife Service will consider the monarch butterfly a "candidate" for designation as threatened or endangered, but there are other species in line ahead of it.
+
+57
+00:03:39,809 --> 00:03:40,505
+
+
+58
+00:03:40,505 --> 00:03:54,201
+Charlie Wooley, who is the head of the agency's Great Lakes regional office, says the monarch's status will be reviewed each year and emergency action could be taken earlier, but plans now call for proposing to list the orange and black butterfly in 2024.
+
+59
+00:03:54,201 --> 00:03:55,921
+
+
+60
+00:03:55,921 --> 00:04:06,593
+Scientists estimate the monarch population in the eastern United States has fallen about 80 percent since the mid-1990s, while the drop-off in the western part of the country has been even steeper.
+
+61
+00:04:06,593 --> 00:04:07,225
+
+
+62
+00:04:07,225 --> 00:04:08,321
+I'm Shelley Adler.
+
+63
+00:04:08,321 --> NaN:NaN:NaN,undefined
+
+
+66
+00:04:09,761 --> NaN:NaN:NaN,undefined
+Lawmakers in Britain have proposed legislation that would fine social media companies if they do not quickly take action to remove illegal content like child pornography or terrorist materials.
+
+68
+00:04:18,601 --> 00:04:22,865
+U.S.-based Facebook and Twitter and China-owned TikTok could be fined up to 10 percent of turnover, according to Reuters.
+
+69
+00:04:22,865 --> 00:04:26,033
+
+
+70
+00:04:26,033 --> 00:04:35,569
+Under the proposal, which will be introduced next year, social media companies must establish clear terms and conditions about content.
+
+71
+00:04:35,569 --> 00:04:36,273
+
+
+72
+00:04:36,273 --> 00:04:39,617
+In addition to fines, some sites could be blocked from the British market if they fail to act.
+
+73
+00:04:39,617 --> 00:04:40,185
+
+
+74
+00:04:40,185 --> 00:04:40,593
+
+
+75
+00:04:40,593 --> 00:04:41,089
+
+
+76
+00:04:41,089 --> 00:04:44,089
+For more on any of today's news, please visit us at voanews.com or use the VOA mobile app. Via remote, I'm Jim Bertel, VOA news.
