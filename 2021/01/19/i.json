@@ -1,0 +1,39 @@
+{
+    "request": {
+        "version": "voa0119.json: 1.0.15", 
+        "width": 1920, 
+        "height": 1080, 
+        "music": "voanews20210119.mp3", 
+        "rate": "1", 
+        "frames": [
+            {
+                "number": "1", 
+                "time": 301, 
+                "objects": [
+                    {
+                        "text": "​常速英语听力（5分钟广播）", 
+                        "x": 50, 
+                        "y": 111, 
+                        "size": 66, 
+                        "color": "222,20,255"
+                    }, 
+                    {
+                        "text": "2021.01.19", 
+                        "x": 50, 
+                        "y": 200, 
+                        "size": 50, 
+                        "color": "150,87,30"
+                    }, 
+                    {
+                        "text": "by littleflute", 
+                        "x": 110, 
+                        "y": 333, 
+                        "size": 50, 
+                        "color": "50,111,30"
+                    }
+                ], 
+                "backgroundColor": "1,211,211"
+            }
+        ]
+    }
+}
